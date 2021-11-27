@@ -1,0 +1,8 @@
+{
+    "name": "Party Animalz Speakeasy Society",
+    "description": "NFT parties IRL",
+    "image": "ipfs://QmUi8Yepi5gQpcjdTig22MhdUuAHQaLXCV73zCBx7kz3Vh",
+    "external_link": "https://www.partyanimalz.io/",
+    "seller_fee_basis_points": 750,
+    "fee_recipient": "0xEFA7375a87F6F0c0083c73D198930A48c34722C7"
+}
